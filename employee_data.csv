@@ -1,0 +1,31 @@
+﻿EMP_ID,NAME,GENDER,DEPT,SALARY,CITY,EXP,JOINING_YEAR
+1,Asha,Female,HR,35000,Bangalore,2,2024
+2,Ravi,Male,IT,50000,Chennai,5,2021
+3,Priya,Female,finance,45000,Mumbai,6,2020
+4,Karan,Male,IT,60000,Bangalore,4,2022
+5,Neha,Female,HR,40000,Delhi,2,2024
+6,Asha Sharma,Female,finance,43000,Bangalore,1,2025
+7,Ravi Kumar,Male,HR,36000,Chennai,3,2023
+8,Priya Singh,Female,IT,55000,Mumbai,5,2021
+9,Karan Patel,Male,IT,56000,Delhi,6,2020
+10,Neha Gupta,Female,HR,45000,Hyderabad,2,2024
+11,Arjun Mehta,Male,HR,40000,Pune,5,2021
+12,Sneha Reddy,Female,finanace,50000,Kolkata,3,2023
+13,Rahul Verma,Male,finanace,48000,delhi,6,2020
+14,Pooja Nair,Female,finanace,52000,Jaipur,2,2024
+15,Vikram Joshi,Male,finanace,50000,Lucknow,5,2021
+16,Ananya Das,Female,finanace,53000,Kochi,3,2023
+17,Rohit Mishra,Male,IT,46000,pune,2,2024
+18,Kavya Iyer,Female,IT,47000,delhi,1,2025
+19,Aditya Rao,Male,HR,50000,Indore,2,2024
+20,Meera Kapoor,Female,IT,48000,Bhopal,3,2023
+21,Suresh Yadav,Male,HR,37000,Nagpur,5,2021
+22,Divya Menon,Female,HR,36000,Surat,4,2022
+23,Akash Jain,Male,HR,56000,Patna,6,2020
+24,Nisha Agarwal,Female,IT,48000,pune,2,2024
+25,Harish Patel,Male,finance,56000,Mysore,5,2021
+26,Riya Sharma,Female,HR,50000,mumbai,3,2023
+27,Deepak Singh,Male,IT,46000,Madurai,2,2024
+28,Tanvi Kulkarni,Female,finance,38000,Noida,4,2022
+29,Manish Gupta,Male,finance,36000,mumbai,5,2021
+30,Shruti Verma,Female,finance,50000,delhi,1,2025
